@@ -1,6 +1,6 @@
 ratings:
   api:
     url: http://ratings-data-service/ratingsdata/user/
-movie:
+movieinfo:
   api:
     url: http://movie-info-service/movies/
